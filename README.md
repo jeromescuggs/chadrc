@@ -10,7 +10,7 @@ Obviously, you'll want to install [NvChad](https://github.com/NvChad/NvChad):
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 ```
 
-Clone this repository as `$HOME/.config/nvim/lua/custom`. NvChad will overwrite `chadrc` with `lua/custom/init.lua`.
+Clone this repository as `$HOME/.config/nvim/lua/custom`. NvChad will overwrite `chadrc` with `lua/custom/chadrc.lua`.
 
 ```
 git clone https://github.com/jeromescuggs/chadrc $HOME/.config/nvim/lua/custom 
